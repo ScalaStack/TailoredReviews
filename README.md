@@ -4,7 +4,7 @@ Further readings:
 Tutorial on specifics of use is provided below
 
 <video width="640" controls>
-  <source src="https://imgur.com/a/47Sqjrm" type="video/mp4">
+  <source src="https://i.imgur.com/AiRaWii.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
