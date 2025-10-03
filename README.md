@@ -1,7 +1,7 @@
 This tool weathers out poor-quality or off-topic reviews so that it is easier for consumers to make informed choices about video games, movies, or TV shows. The AI occasionally comes up with inaccurate interpretations ("hallucinations"), but such incidents are relatively rare.
 
-Further readings:
-Tutorial on specifics of use is provided below
+
+⬇️Tutorial on specifics of use is provided below⬇️
 
 [![Watch the video](https://www.youtube.com/watch?v=OYCJfZcI5QY.jpg)](https://www.youtube.com/watch?v=OYCJfZcI5QY)
 
