@@ -1,6 +1,11 @@
 This tool filters out poor-quality or off-topic reviews so that it is easier for consumers to make informed choices about video games, movies, or TV shows. The AI occasionally comes up with inaccurate interpretations ("hallucinations"), but such incidents are relatively rare. To run the application on your own computer you must put the "ValueDetec_ModelDetails" folder and the jar file in the same folder on your computer.
 
 
+jar:
+(for some reason github isn't letting me add it to the repo so heres the link to the google drive)
+[![Download JAR](https://img.shields.io/badge/Download-JAR-blue?style=for-the-badge)](https://drive.google.com/file/d/1fFhsx3HIvubDdOQVVsr_HqZnuxMpxCRH/view?usp=sharing)
+
+
 ⬇️Tutorial on specifics of use is provided below⬇️
 
 [![Watch the video](https://img.youtube.com/vi/OYCJfZcI5QY/0.jpg)](https://www.youtube.com/watch?v=OYCJfZcI5QY)
