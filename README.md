@@ -3,10 +3,11 @@ This tool weathers out poor-quality or off-topic reviews so that it is easier fo
 Further readings:
 Tutorial on specifics of use is provided below
 
-<video width="640" controls>
-  <source src="https://i.imgur.com/AiRaWii.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe width="640" height="360"
+  src="https://youtu.be/vtmQdvQqyOo"
+  frameborder="0" allowfullscreen>
+</iframe>
+
 
 
 ⚠️ Users must act responsibly
