@@ -1,4 +1,4 @@
-This tool weathers out poor-quality or off-topic reviews so that it is easier for consumers to make informed choices about video games, movies, or TV shows. The AI occasionally comes up with inaccurate interpretations ("hallucinations"), but such incidents are relatively rare.
+This tool filters out poor-quality or off-topic reviews so that it is easier for consumers to make informed choices about video games, movies, or TV shows. The AI occasionally comes up with inaccurate interpretations ("hallucinations"), but such incidents are relatively rare. To run the application on your own computer you must put the "ValueDetec_ModelDetails" folder and the jar file in the same folder on your computer.
 
 
 ⬇️Tutorial on specifics of use is provided below⬇️
